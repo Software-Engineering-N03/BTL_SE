@@ -47,7 +47,7 @@
                             <TextBlock Text="Loại sách" HorizontalAlignment="Center"></TextBlock>
                         </Grid>
                         <Grid Grid.Row="1">
-                            <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="Dns" />
+                            <materialDesign:PackIcon Width="23" Height="23"  HorizontalAlignment="Center"  Kind="Dns" />
                         </Grid>
                     </Grid>
                 </Button>
@@ -61,7 +61,7 @@
                             <TextBlock Text="Loại độc giả" HorizontalAlignment="Center"></TextBlock>
                         </Grid>
                         <Grid Grid.Row="1">
-                            <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="HumanHandsup" />
+                            <materialDesign:PackIcon Width="23" Height="23"  HorizontalAlignment="Center"  Kind="HumanHandsup" />
                         </Grid>
                     </Grid>
                 </Button>
@@ -75,7 +75,7 @@
                             <TextBlock Text="Loại nhân viên" HorizontalAlignment="Center"></TextBlock>
                         </Grid>
                         <Grid Grid.Row="1">
-                            <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="AccountMultiple" />
+                            <materialDesign:PackIcon Width="23" Height="23"  HorizontalAlignment="Center"  Kind="AccountMultiple" />
                         </Grid>
                     </Grid>
                 </Button>
